@@ -1,3 +1,4 @@
-hello world
-่I Love To  Play Game.
+Hello world
+
 I Like Pizza.
+I Love Dog.
